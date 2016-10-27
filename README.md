@@ -1,2 +1,2 @@
 # Undergraduate-Projects
-This repository contains some of my undergraduate projects as Electronics and Communications Engineering student at Alexandria University ..
+This repository contains some of my undergraduate projects as Electrical Engineering student (major: Electronics and Communications) at Faculty of Engineering, Alexandria University ..
